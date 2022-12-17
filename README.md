@@ -1,4 +1,5 @@
-Virtual Call Center Floor
+#Virtual Call Center Floor
+
 Co-Lead a team of five to create a web application for a client to observe the state of thousands of employees.
 Each employee is represented as a colored dot. The color represents the state each employee is in.
 The overall coloring of the screen and real-time color change patterns enable the client to derive what the employees are doing.
